@@ -1,3 +1,16 @@
+body{
+    font-family: 'Public Sans', sans-serif;
+    font-size: 18px;
+}
+
+button{
+    color: #ffffff;
+    background-image: linear-gradient(to right, #31d35c 0%, #2bb7da 100%);
+    border: none;
+    border-radius: 1.5em;
+    padding: 1em 1.5em;
+}
+
 nav{
     display: flex;
     flex-direction: row;
